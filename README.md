@@ -1,2 +1,2 @@
 # Labyrinth_solver
-Solving Labyrinths from Photo Files with Visuals
+Solving Labyrinths from Photo Files with live Path Visuals
